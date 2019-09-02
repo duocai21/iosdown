@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://down.lcex.club/ios/ios.ipa</string>
+					<string>http://down.youqianhai.club/ios/ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://down.lcex.club/ios/57.png</string>
+					<string>http://down.youqianhai.club/ios/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://down.lcex.club/ios/512.png</string>
+					<string>http://down.youqianhai.club/ios/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -36,7 +36,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LCEX社区</string>
+				<string>有钱还</string>
 			</dict>
 		</dict>
 	</array>
